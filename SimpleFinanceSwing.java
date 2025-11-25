@@ -21,7 +21,7 @@ public class SimpleFinanceSwing {
         dateField.setText("15/01/2025");
 
         JButton addButton = new JButton("Save");
-         JButton summaryButton = new JButton("Month Summary");
+         JButton summaryButton = new JButton("Summary");
 
 
         // List แสดงรายการ
